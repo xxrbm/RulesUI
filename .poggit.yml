@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/xxrbm/RulesUI
+build-by-default: true
+branches:
+- master
+projects:
+  RulesUI:
+    path: ""
+...
