@@ -1,0 +1,9 @@
+name: RulesUI
+version: 2.0.0
+main: xxrbm\Loader
+api: [3.0.0, 4.0.0]
+author: Rendii09
+
+permissions:
+  rules.cmd:
+    default: true

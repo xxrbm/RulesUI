@@ -1,0 +1,28 @@
+# Rules UI v2.0.0
+# Message language files
+
+# Messages file version
+# Do not delete and edit
+messages-version: "1.0.0"
+
+# Use "§" for add color
+# Use "\n" for add line
+
+# Enter the message that will appear when using the command
+messages:
+  use-in-game: "Use this command in the game"
+  close: "§l§aRules! §rThank you for reading the Rules"
+
+# Enter the title and description from the Rules UI menu
+rules:
+  title: "§l§eRULES"
+  content: "§b1. Don't cheat \n§b2. Don't use bugs \n§b3. Don't Grief"
+
+# Enter the button name from the Rules UI menu
+# Type "0" internal texture "1" from external texture
+# Example if the type "0": icon is "textures/ui/realms_green_check"
+# Example if the type "1": icon is "https://cdn.rendiansyah.com/images/logo.jpg"
+btn:
+  type: 0
+  icon: "textures/ui/realms_green_check"
+  close: "§lOK \n§rTap to Close"

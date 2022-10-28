@@ -1,0 +1,19 @@
+# Rules UI v2.0.0
+# Configuration settings file
+
+# Configuration file version
+# Do not delete and edit
+config-version: "2.0.0"
+
+# Enter the message that will appear when using the command
+# Use "" for add aliases command
+# Example: ["rls","rulesui"]
+commands:
+  desc: "Open the Rules of this Server"
+  aliases: ["rls"]
+
+# Type boolean. Displays according to each option
+settings:
+  first-join: true
+  msg-close: true
+  btn-image: false
